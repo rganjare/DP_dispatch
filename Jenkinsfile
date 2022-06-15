@@ -1,4 +1,4 @@
 @Library('DP_shared-library@main') _
 
-env.COMPONENT="dispatch"
+env.COMPONENT="DP_dispatch"
 golang()
